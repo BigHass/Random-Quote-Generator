@@ -7,7 +7,7 @@ const api = "https://api.quotable.io/random";
 async function getQuote() {
     try{
         const response = await fetch(api);
-        const data = await  await response.json();
+        const data = await response.json();
         showData(data);
     }catch(e){
         console.log("Error: ", e.message);
