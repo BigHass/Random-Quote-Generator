@@ -31,6 +31,10 @@ To run the Random Quote Generator on your local machine, follow these steps:
 ## Credits
 The Random Quote Generator relies on the [Quotable API](https://github.com/lukePeavey/quotable) for fetching random quotes.
 
+## Preview 
+<p align ="center">
+      <img src="/assets/images/Random Quotes.gif" alt="preview gif">
+</p> 
 <!-- LICENSE -->
 ## License
 
